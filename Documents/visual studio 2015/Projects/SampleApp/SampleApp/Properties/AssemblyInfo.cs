@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Honeywell")]
 [assembly: AssemblyProduct("SampleApp")]
-[assembly: AssemblyCopyright("Copyright © Honeywell 2016")]
+[assembly: AssemblyCopyright("Copyright ? Honeywell 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
