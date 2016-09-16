@@ -10,7 +10,7 @@ namespace SampleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World config 123456!!!");
+            Console.WriteLine("Hello World config !!!");
             Console.ReadKey();
         }
     }
